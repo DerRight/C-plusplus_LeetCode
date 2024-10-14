@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TwoSum.cpp">
+    <ClCompile Include="Minimum Element After Replacement Digit Sum.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
