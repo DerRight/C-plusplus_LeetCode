@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TwoSum.cpp">
+    <ClCompile Include="Find X Sum of All K-Long Subarrays I.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
